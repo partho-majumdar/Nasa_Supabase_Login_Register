@@ -11,11 +11,13 @@ const router = createRouter({
     },
     {
       path: "/sign-in",
+      // path: "https://nasa-orrery24-project.vercel.app/sign-in",
       name: "sign in",
       component: () => import("../views/SignIn.vue"),
     },
     {
       path: "/sign-up",
+      // path: "https://nasa-orrery24-project.vercel.app/sign-up",
       name: "sign up",
       component: () => import("../views/SignUp.vue"),
     },
