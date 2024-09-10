@@ -4,7 +4,9 @@
       <a href="#default"
         ><i class="fa fa-search"></i>&nbsp;🌟 Greetings, Cosmic Explorer! 🌟</a
       >
-      <div class="header-center" style="letter-spacing: .5em">SOLAR_SPHERE🚀</div>
+      <div class="header-center" style="letter-spacing: 0.5em">
+        SOLAR_SPHERE🚀
+      </div>
       <div class="header-right">
         <a class="active" href="/">Home</a>
         <a href="/sign-in">Login</a>
