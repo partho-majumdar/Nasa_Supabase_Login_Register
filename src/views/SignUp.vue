@@ -82,7 +82,6 @@ const handleSignup = async () => {
     });
     if (error) throw error;
     router.push("/sign-in");
-    // router.push("https://nasa-orrery24-project.vercel.app/sign-in");
   } catch (error) {
     alert(error.error_description || error.message);
   }
@@ -90,7 +89,6 @@ const handleSignup = async () => {
 
 const handleLoginRedirect = () => {
   router.push("/sign-in");
-  // router.push("https://nasa-orrery24-project.vercel.app/sign-in");
 };
 </script>
 

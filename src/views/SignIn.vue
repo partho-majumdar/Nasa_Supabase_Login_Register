@@ -90,7 +90,6 @@ const handleSignin = async () => {
 
 const goToSignUp = () => {
   router.push("/sign-up");
-  // router.push("https://nasa-orrery24-project.vercel.app/sign-up");
 };
 </script>
 
