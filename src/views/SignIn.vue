@@ -56,9 +56,9 @@
             Register
           </button>
         </div>
-        <div class="forgot-password">
+        <!-- <div class="forgot-password">
           <a href="#">Forgot Password?</a>
-        </div>
+        </div> -->
       </form>
     </div>
   </div>
